@@ -1,0 +1,10 @@
+# harness scratch output
+suite_out.txt
+dom_dump.html
+extract_tmp.js
+profile_tmp.js
+*.log
+
+# local screenshots other than the README preview
+shot_*.png
+!shot_world.png
